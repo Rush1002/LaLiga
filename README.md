@@ -150,11 +150,6 @@ Potential improvements:
 - matplotlib >= 3.7.0
 - seaborn >= 0.12.0
 
-## References
-
-- Dixon & Coles (1997): "Modelling Association Football Scores and Inefficiencies in the Football Betting Market"
-- Karlis & Ntzoufras (2003): "Analysis of sports data by using bivariate Poisson models"
-
 ## License
 
 MIT
