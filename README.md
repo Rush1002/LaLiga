@@ -1,6 +1,6 @@
 # La Liga Match Outcome Prediction
 
-Statistical modeling of La Liga soccer matches using Poisson team-strength model. Compares model predictions to bookmaker odds using proper scoring rules. Developed throughout August--December 2025.
+Statistical modeling of La Liga soccer matches using Poisson team-strength model. Compares model predictions to bookmaker odds using proper scoring rules. Developed during my freetime throughout August and my 2025 fall quarter.
 
 ## Overview
 
