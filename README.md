@@ -29,6 +29,13 @@ log(λ_away) = μ + attack[away_team] + defense[home_team]
 - Σ defense = 0 (identifiability)
 - L2 regularization on team parameters
 
+## What Gets Predicted
+
+### Test Set (2024/25 season):
+- Shows model performance on completed matches
+- Compares predictions to actual results
+- Evaluates against bookmaker odds
+
 ## Project Structure
 
 ```
