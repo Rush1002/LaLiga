@@ -98,7 +98,6 @@ Historical match data from [football-data.co.uk](https://www.football-data.co.uk
 - **Train**: 2019/20 - 2022/23 (4 seasons)
 - **Validation**: 2023/24 (1 season)
 - **Test**: 2024/25 (1 season) - used for evaluation
-- **Future**: 2025/26 (ongoing) - predictions for current season
 
 ## Evaluation Metrics
 
@@ -131,15 +130,6 @@ The model achieves competitive performance with bookmaker probabilities:
 - Calibration curves show reasonable reliability
 
 Expected Value (EV) calculations are included for analysis but should not be interpreted as trading signals. Betting markets are highly efficient.
-
-## Extending the Model
-
-Potential improvements:
-- Add player-level features (injuries, form)
-- Model time-varying team strengths
-- Include additional covariates (weather, rest days)
-- Implement Bayesian posterior for parameter uncertainty
-- Multi-league modeling for cross-validation
 
 ## Dependencies
 
